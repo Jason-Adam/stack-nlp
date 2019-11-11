@@ -14,6 +14,7 @@ gensim = "*"
 matplotlib = "*"
 yellowbrick = "*"
 pymongo = "*"
+blackcellmagic = "*"
 
 [requires]
 python_version = "3.7"

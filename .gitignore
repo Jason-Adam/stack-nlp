@@ -105,3 +105,4 @@ venv.bak/
 data/
 .vim/
 .vscode/
+.DS_Store
